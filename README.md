@@ -15,10 +15,10 @@
 #### - Fill all missing value using linear interpolation, normalize values with minmax scaling
 
 ### Model structure
-<img width="30%" src="https://user-images.githubusercontent.com/81947384/180929217-8ede4036-4b08-4d59-9547-9031173c9261.PNG"/>
+<img width="40%" src="https://user-images.githubusercontent.com/81947384/180929217-8ede4036-4b08-4d59-9547-9031173c9261.PNG"/>
 
 ### Result
-#### - MSE: 0.0046
-#### - F1-score: 0.7479
-#### - Inference Time: 0.0007231235504150391
-#### - Model Size: 162kb
+##### - MSE: 0.0046
+##### - F1-score: 0.7479
+##### - Inference Time: 0.0007231235504150391
+##### - Model Size: 162kb
